@@ -4,7 +4,6 @@ Leer dia_nacimiento, mes_nacimiento, a√±o_nacimiento, dia_actual, mes_actual, a√
 Si dia_actual < dia_nacimiento
     dia_actual = dia_actual + 30
     mes_actual = mes_actual - 1
-
 Fin Si
 dias = dia_actual - dia_nacimiento
 Si mes_actual < mes_nacimiento
