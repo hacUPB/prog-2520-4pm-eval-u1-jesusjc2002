@@ -69,7 +69,10 @@ Fin
 # Bucles
 ## Ejercico 3
 
-Realice el algoritmo para determinar cuánto pagará una persona que
+
+# Pseudocodigo
+```
+InicioRealice el algoritmo para determinar cuánto pagará una persona que
 adquiere N artículos, los cuales están de promoción. Considere que
 si su precio es mayor o igual a $200 se le aplica un descuento de 15%,
 y si su precio es mayor a $100 pero menor a $200, el descuento es de
@@ -77,9 +80,6 @@ y si su precio es mayor a $100 pero menor a $200, el descuento es de
 costo y el descuento que tendrá cada uno de los artículos y finalmente cuánto se pagará por todos los artículos obtenidos. Represente la
 solución mediante el diagrama de flujo, el pseudocódigo y el diagrama N/S.
 
-# Pseudocodigo
-```
-Inicio
     Escribir "Ingrese la cantidad de artículos (N):"
     Leer N
     total_pagar ← 0
@@ -107,3 +107,6 @@ Inicio
     Escribir "Total a pagar por todos los artículos: $", total_pagar
 Fin
 ```
+![Diagrama](/imagenes/DiagramadeBucle3.drawio.png)
+
+
