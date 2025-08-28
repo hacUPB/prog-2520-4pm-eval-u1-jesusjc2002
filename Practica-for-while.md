@@ -72,7 +72,8 @@ Fin
 
 # Pseudocodigo
 ```
-InicioRealice el algoritmo para determinar cuánto pagará una persona que
+Inicio
+Realice el algoritmo para determinar cuánto pagará una persona que
 adquiere N artículos, los cuales están de promoción. Considere que
 si su precio es mayor o igual a $200 se le aplica un descuento de 15%,
 y si su precio es mayor a $100 pero menor a $200, el descuento es de
@@ -108,5 +109,8 @@ solución mediante el diagrama de flujo, el pseudocódigo y el diagrama N/S.
 Fin
 ```
 ![Diagrama](/imagenes/DiagramadeBucle3.drawio.png)
+
+
+
 
 
