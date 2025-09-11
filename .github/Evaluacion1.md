@@ -7,10 +7,10 @@
 | Clara definición de las constantes que se utilizan en el problema |  | Las constantes son las " formulas matematicas; Intercambio de tiempo; Intervalo de calculo " |
 | Ecuación que relaciona adecuadamente las variables del problema |  | Las ecuaciones se representan en " Fórmulas barométricas caso 1; órmula lineal de consumo caso 2; Fórmula distancia-tiempocaso 3 " |
 | No es solo cálculo directo |  | No es solo una calculo dorecto por que en los tres casos hay que sacar varias operciones  |
-| Al menos un bucle (variable de control, condición de parada) |  | En el pseudocodigo de cada caso |
-| Al menos una sentencia condicional significativa |  |  |
-| Menú repetitivo hasta “Salir” |  |  |
-| Sin listas, diccionarios, tuplas ni sets |  |  |
-| Declaración de uso de IA (si aplica) |  |  |
+| Al menos un bucle (variable de control, condición de parada) |  | Los Bucles se pueden ver en los pseudocodigo de cada caso |
+| Al menos una sentencia condicional significativa |  | Las sentencia final significativa en cada caso es " Clasificar el estado caso 1; Evitar valores imposibles caso 2; Ajustar el cálculo final caso 3 |
+| Menú repetitivo hasta “Salir” |  | Esto se puede ver en los " Pseudocodigo " de cada caso  |
+| Sin listas, diccionarios, tuplas ni sets |  | Esto se puede verificar en los Pseudocodigo " |
+| Declaración de uso de IA (si aplica) |  | Use la IA para que me guiara con las cosntantes de los tres casos y en las Variables |
 
 ## Guía breve para la autoevaluación (por criterio)
