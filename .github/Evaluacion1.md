@@ -13,4 +13,3 @@
 | Sin listas, diccionarios, tuplas ni sets |  | Esto se puede verificar en los Pseudocodigo " |
 | Declaración de uso de IA (si aplica) |  | Use la IA para que me guiara con las cosntantes de los tres casos y en las Variables |
 
-## Guía breve para la autoevaluación (por criterio)
