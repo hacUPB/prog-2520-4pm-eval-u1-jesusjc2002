@@ -1,4 +1,4 @@
-# Codigo Reto uno 
+# Codigo Reto 1
 
 def presion_a_altitud(presion_hpa):
     # Fórmula barométrica simplificada
