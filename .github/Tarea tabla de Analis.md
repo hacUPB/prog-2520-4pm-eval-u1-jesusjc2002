@@ -1,7 +1,7 @@
 # Sistema de Cálculo de Altitud y Velocidad Vertical para Aeronave
 # Autor: [ Jesus cantillo y Samuel mejia ]
 '''
-Se desea desarrollar un sistema de cálculo de altitud y velocidad vertical para una aeronave utilizando como variable de entrada la presión barométrica medida en hPa.
+## Se desea desarrollar un sistema de cálculo de altitud y velocidad vertical para una aeronave utilizando como variable de entrada la presión barométrica medida en hPa.
 
 El programa debe:
 
@@ -49,9 +49,9 @@ VV (Velocidad Vertical)
 '''
 
 '''
-Consumo de combustible en vuelo
+# Consumo de combustible en vuelo
 
-Enunciado:
+## Enunciado:
 Un avión consume combustible a una tasa constante durante el vuelo de crucero. El programa debe pedir al usuario la cantidad inicial de combustible (kg) y el consumo por minuto (kg/min). Luego, en cada iteración, debe mostrar el tiempo transcurrido y la cantidad de combustible restante, hasta que este llegue a cero. Al final, debe indicar el tiempo total de vuelo posible.
 
 Análisis:
@@ -78,9 +78,9 @@ TT (tiempo transcurrido)
 '''
 
 '''
-Distancia recorrida en vuelo
+# Distancia recorrida en vuelo
 
-Enunciado:
+## Enunciado:
 Un avión mantiene una velocidad constante durante un trayecto. El programa debe solicitar al usuario la velocidad (km/h) y la duración total del vuelo (h). Con un bucle, debe mostrar la distancia recorrida acumulada cada 30 minutos, hasta completar el tiempo indicado. Finalmente, debe mostrar la distancia total recorrida.
 
 Análisis:
